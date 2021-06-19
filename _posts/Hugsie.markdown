@@ -2,7 +2,7 @@
 layout: default
 modal-id: 26
 date: 2021-06-19
-img: Hugsie.jpg
+img: Hugsie.png
 alt: image-alt
 project-date: June 2021
 client: Start Bootstrap
