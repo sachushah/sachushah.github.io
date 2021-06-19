@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 9
+date: 2021-06-19
+img: Being Kind.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: You will never regret being kind💓
+#beingkind #shakshishah
+---
