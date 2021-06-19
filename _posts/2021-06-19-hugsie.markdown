@@ -7,7 +7,7 @@ alt: image-alt
 project-date: June 2021
 client: Start Bootstrap
 category: Digital Art
-description: ecause nothing short of eternity
+description: Because nothing short of eternity
 Could ever be enough for me
 In terms of you...<3
 
