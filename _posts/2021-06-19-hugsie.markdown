@@ -7,6 +7,8 @@ alt: image-alt
 project-date: June 2021
 client: Start Bootstrap
 category: Digital Art
-description: You will never regret being kind💓
+description: Because nothing short of eternity
+Could ever be enough for me
+In terms of you...
 #beingkind #shakshishah
 ---
