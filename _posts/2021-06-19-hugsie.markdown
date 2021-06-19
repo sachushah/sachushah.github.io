@@ -6,7 +6,7 @@ img: hugsie.jpg
 alt: image-alt
 project-date: June 2021
 client: Start Bootstrap
-category: Web Development
+category: Digital Art
 description: You will never regret being kind💓
 #beingkind #shakshishah
 ---
