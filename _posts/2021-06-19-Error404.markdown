@@ -1,0 +1,17 @@
+---
+layout: default
+modal-id: 16
+date: 2021-06-19
+img: Error404.png
+alt: image-alt
+project-date: June 2021
+client: Start Bootstrap
+category: Digital Art
+description: It should not be love which fuels us,
+but rather,
+the courage to love
+when it is not
+guaranteed
+To be reciprocated.
+
+---

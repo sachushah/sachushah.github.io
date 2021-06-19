@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 18
+date: 2021-06-19
+img: Illusion.png
+alt: image-alt
+project-date: June 2021
+client: Start Bootstrap
+category: Digital Art
+description: Hello, I've waited here for you everlong
+
+---
