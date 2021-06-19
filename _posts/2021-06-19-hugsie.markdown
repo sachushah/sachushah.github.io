@@ -1,12 +1,12 @@
 ---
 layout: default
-modal-id: 12
+modal-id: 13
 date: 2021-06-19
 img: Hugsie.jpg
 alt: image-alt
 project-date: June 2021
 client: Start Bootstrap
-category: Web Development
+category: Digital Art
 description: You will never regret being kind💓
 #beingkind #shakshishah
 ---
